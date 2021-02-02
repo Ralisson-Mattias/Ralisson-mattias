@@ -4,5 +4,3 @@
 Passionate about technology, I started with the Java language, discovering other passions, until I reached Javascript, which is the language in which I have more knowledge 🖥😍
 
 Skills: REACT-NATIVE / REACT / JS / HTML / CSS / JAVA / PHP
-
-- 🔭 I’m currently working on this page. 
